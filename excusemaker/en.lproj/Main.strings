@@ -1,0 +1,60 @@
+
+/* Class = "UITabBarItem"; title = "Main"; ObjectID = "2ab-8Q-VDo"; */
+"2ab-8Q-VDo.title" = "Main";
+
+/* Class = "UILabel"; text = "20 Likes"; ObjectID = "3RK-Y5-dsw"; */
+"3RK-Y5-dsw.text" = "20 Likes";
+
+/* Class = "UIButton"; normalTitle = "Respond"; ObjectID = "AbN-Wz-KAa"; */
+"AbN-Wz-KAa.normalTitle" = "Respond";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "AiN-Ln-g2F"; */
+"AiN-Ln-g2F.normalTitle" = "Edit";
+
+/* Class = "UITextField"; placeholder = "What's your excuse ?"; ObjectID = "HYU-pl-yqH"; */
+"HYU-pl-yqH.placeholder" = "What's your excuse ?";
+
+/* Class = "UILabel"; text = "Best excuse this one"; ObjectID = "KWP-s6-G8A"; */
+"KWP-s6-G8A.text" = "Best excuse this one";
+
+/* Class = "UINavigationItem"; title = "Excuse me"; ObjectID = "Kfn-gD-f9I"; */
+"Kfn-gD-f9I.title" = "Excuse me";
+
+/* Class = "UIButton"; normalTitle = "Add New Excuse  "; ObjectID = "ML9-Eg-XaM"; */
+"ML9-Eg-XaM.normalTitle" = "Add New Excuse  ";
+
+/* Class = "UILabel"; text = "Final excuse"; ObjectID = "SKy-5V-f76"; */
+"SKy-5V-f76.text" = "Final excuse";
+
+/* Class = "UIButton"; normalTitle = "Like"; ObjectID = "af1-dF-u4Y"; */
+"af1-dF-u4Y.normalTitle" = "Like";
+
+/* Class = "UIButton"; normalTitle = "Clear all"; ObjectID = "eJl-Ge-oy9"; */
+"eJl-Ge-oy9.normalTitle" = "Clear all";
+
+/* Class = "UIButton"; normalTitle = "Copy to clipboard"; ObjectID = "hQR-Ql-2Fq"; */
+"hQR-Ql-2Fq.normalTitle" = "Copy to clipboard";
+
+/* Class = "UILabel"; text = "No excuses here. Try generating some."; ObjectID = "kJ3-J1-30I"; */
+"kJ3-J1-30I.text" = "No excuses here. Try generating some.";
+
+/* Class = "UITabBarItem"; title = "History"; ObjectID = "nmI-OX-PEw"; */
+"nmI-OX-PEw.title" = "History";
+
+/* Class = "UILabel"; text = "Comments"; ObjectID = "ns7-RS-o5e"; */
+"ns7-RS-o5e.text" = "Comments";
+
+/* Class = "UITextField"; placeholder = "Enter a comment . . ."; ObjectID = "pbm-Aw-4Fm"; */
+"pbm-Aw-4Fm.placeholder" = "Enter a comment . . .";
+
+/* Class = "UIButton"; normalTitle = "Generate an excuse"; ObjectID = "rnk-Qq-2NQ"; */
+"rnk-Qq-2NQ.normalTitle" = "Generate an excuse";
+
+/* Class = "UINavigationItem"; title = "Add Excuse"; ObjectID = "uFg-vR-Dwc"; */
+"uFg-vR-Dwc.title" = "Add Excuse";
+
+/* Class = "UINavigationItem"; title = "Excuse History"; ObjectID = "xjB-ca-nX7"; */
+"xjB-ca-nX7.title" = "Excuse History";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "zW9-88-mwf"; */
+"zW9-88-mwf.normalTitle" = "Add";
